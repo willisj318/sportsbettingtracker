@@ -1,0 +1,7 @@
+Werkzeug==1.0.1
+oauthlib==3.0.1
+pyOpenSSL==19.0.0
+scipy==1.12.0
+streamlit==1.30.0
+pandas==2.2.0
+statistics==1.0.3.5
